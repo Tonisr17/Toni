@@ -460,11 +460,11 @@ http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7g2XEHfUoE24Cav4nvdR6GqZsMw
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7oE6SJhBb6kGfI9VgYbwXL6MDOkhRD2mICcCgqGnK0h8/ts
 #EXTINF:-1 xui-id="26115" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8DdtHQVv2swmrC2CIHs-pNONVqkqhUZdnkubRknrsFBFSD4JU" group-title="MALAYSIA™",8TV
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7lMGQHXD5gw9pSGiPkmxcPHoFfbPvK3T1uDdoy9E21P1/ts
-#EXTINF:-1 xui-id="44577" tvg-id="" tvg-name="DTG Action (GOLDENTV BIOSKOP)" tvg-logo="http://www.goldentv.tech:80/images/b1b5171064d4ed5f6d3b7e360c75747b.jpeg" group-title="GOLDEN TV BIOSKOP™",DTG Action (GOLDENTV BIOSKOP)
+#EXTINF:-1 xui-id="44577" tvg-id="" tvg-name="DTG Action (GOLDENTV BIOSKOP)" tvg-logo="http://www.goldentv.tech:80/images/b1b5171064d4ed5f6d3b7e360c75747b.jpeg" group-title="ALFANET TV BIOSKOP™",DTG Action (GOLDENTV BIOSKOP)
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7njXrRSIb1JhPlEatQW7uTz1Uzkt1ig0588qMT5glnI3/ts
 #EXTINF:-1 xui-id="44627" tvg-id="" tvg-name="Jazirah Ilmu Islam" tvg-logo="http://www.goldentv.tech:80/images/96e7e23e289fa225bd56154bff5e92be.jpg" group-title="RELIGIUS™",Jazirah Ilmu Islam
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7kB7n1-Oux5O-2yz2Ozy-MlXityMXBQkZ-7-sMx7a2ou/ts
-#EXTINF:-1 xui-id="44651" tvg-id="" tvg-name="Golden TV Animasi" tvg-logo="http://www.goldentv.tech:80/images/b04f6b23da86d942a0b546a2b158d9f5.png" group-title="KIDS™",Golden TV Animasi
+#EXTINF:-1 xui-id="44651" tvg-id="" tvg-name="Golden TV Animasi" tvg-logo="http://www.goldentv.tech:80/images/b04f6b23da86d942a0b546a2b158d9f5.png" group-title="KIDS™", TV Animasi
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7qXUF7x1hujHCz3cfpmjWBrBNZ55R3L2E7CxUSgzAHR3/ts
 #EXTINF:-1 xui-id="39916" tvg-id="" tvg-name="Asrtro Arena 2" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/2/23/Astro_Arena_2_%282021%29.png/revision/latest?cb=20221005134532" group-title="SPORT INDO™",Asrtro Arena 2
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7gh1d8vBOziHiPF9GjsLBzL_PhHsz-OmjwTPBfFq5hR6/ts
@@ -502,9 +502,9 @@ http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7tP05PEct2FdRd-305FEe2EQpw9
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7uJoWkX1Isqzr8pH8iXEzR1nEF4R-AkiOM8FsCDOmetY/ts
 #EXTINF:-1 xui-id="44984" tvg-id="" tvg-name="mp3 Musik Indonesia" tvg-logo="http://www.goldentv.tech:80/images/dde856948c01178f27d6680e0e1fff66.jpeg" group-title="Musik™",mp3 Musik Indonesia
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7jJIEwRHG8c7VrOdhaiE__DbJWlBieN7FwognGy2YTeX/ts
-#EXTINF:-1 xui-id="44986" tvg-id="" tvg-name="DTG Horror TV (GOLDENTV BIOSKOP)" tvg-logo="http://www.goldentv.tech:80/images/eb63eea3ab62f328dc9b6e4bdafff676.jpeg" group-title="GOLDEN TV BIOSKOP™",DTG Horror TV (GOLDENTV BIOSKOP)
+#EXTINF:-1 xui-id="44986" tvg-id="" tvg-name="DTG Horror TV (GOLDENTV BIOSKOP)" tvg-logo="http://www.goldentv.tech:80/images/eb63eea3ab62f328dc9b6e4bdafff676.jpeg" group-title="ALFANET TV BIOSKOP™",DTG Horror TV (GOLDENTV BIOSKOP)
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7p_FBdWcJxTrYu2CKKLO2NXHFuE8Z1_DH416nfl3HlqQ/ts
-#EXTINF:-1 xui-id="45006" tvg-id="" tvg-name="DTG Bollywood Drama (GOLDENTV BIOSKOP)" tvg-logo="http://www.goldentv.tech:80/images/6172601adf0410d2733e47af7a58e2a5.jpeg" group-title="GOLDEN TV BIOSKOP™",DTG Bollywood Drama (GOLDENTV BIOSKOP)
+#EXTINF:-1 xui-id="45006" tvg-id="" tvg-name="DTG Bollywood Drama (GOLDENTV BIOSKOP)" tvg-logo="http://www.goldentv.tech:80/images/6172601adf0410d2733e47af7a58e2a5.jpeg" group-title="ALFANET TV BIOSKOP™",DTG Bollywood Drama (GOLDENTV BIOSKOP)
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7t8w8OCTakRybYP6XxAIMbFbkeuT0FawrSvV0vXJvBPc/ts
 #EXTINF:-1 xui-id="45093" tvg-id="" tvg-name="Lagu Daerah Indonesia" tvg-logo="http://www.goldentv.tech:80/images/8029f084daef68b3bfeefea6c1df9adb.jpeg" group-title="Musik™",Lagu Daerah Indonesia
 http://www.goldentv.tech:80/play/yFWXOb2meOSWPYLlR4v-7rogcJt1_Kv6HUN3kQpjIkYe7CkTkBABojn2q66n9sGq/ts
