@@ -459,6 +459,11 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61IKrbSimEkxT8U2qPzqqXHjyrF-V-BPNOAmVqDOsE7-rMddJuGCADT3d&s=10" group-title="SPORTS" , SKY 
+https://raw.githubusercontent.com/Tonisr17/projek/main/Sky.m3u8
+
+
 ----------------------------🗿🗿🗿KNOWLEDGE😌😌😌---------------------------------
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Animal Planet HD World"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET 
