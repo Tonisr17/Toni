@@ -234,7 +234,6 @@ http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5vOomcx9p98oJvxPaYxiRfw/ts
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5p69GbsrYnPTbuB-r9Ceqtc/ts
 #EXTINF:-1 xui-id="44942" tvg-id="" tvg-name="K+" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSCOnhxJ2ez_kMDJ1HViHFqgR5fnBy4aouItryf8MPOYGVUNrA" group-title="ENTERTAINMENT™",K+
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5pSxz0a1rvDogRQLuzHT3Gc/ts
-
 ------------------------DAZN SPORT------------------------
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNXHsq67L6MQH2wqUi0JGnPVREQkKTETjKA&usqp=CAU" group-title=">>>DAZN SPORTS<<<" , F1 GRAND PRIX 2024 
@@ -320,7 +319,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/pJMT1PM/Untitled-1-16.png" group-title=">>>SPORTS IN<<<" , FIFA+
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 group-title=">>>SPORTS<<<" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/WvV5wJs/Untitled-1-31.png", SSC 1
+#EXTINF:-1 group-title=">>>SSC SPORTS<<<" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/WvV5wJs/Untitled-1-31.png", SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
@@ -421,7 +420,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPiUJzkZ1QPOeDDc4VY_DOYRF5-VpY2qFOcA&usqp=CAU" group-title=">>>AS SPORT<<<", Arena premium 2
+#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPiUJzkZ1QPOeDDc4VY_DOYRF5-VpY2qFOcA&usqp=CAU" group-title=">>>AS SPORTS<<<", Arena premium 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
@@ -449,5 +448,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
 
 
