@@ -68,7 +68,7 @@ http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5sJsgg2gqaX3njVq0ob_ufk/ts
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5rKcSChkgVCfJ-WC-Ygt4RM/ts
 #EXTINF:-1 xui-id="25736" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia HD" tvg-logo="http://www.goldentv.tech:80/images/cd3e280582172608c3eb18556f157023.png" group-title="LOKAL INDONESIA™",CNBC Indonesia HD
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5lB3UGw6c44oza8wT62jDLc/ts
-#EXTINF:-1 xui-id="39526" tvg-id="ABCAustralia.au" tvg-name="DTG Haunted (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/hl7rk0fuonyhcbr/dtg%20haunted.png?dl=1" group-title="GOLDEN TV BIOSKOP™",DTG Haunted (Indonesia Subtittle)
+#EXTINF:-1 xui-id="39526" tvg-id="ABCAustralia.au" tvg-name="DTG Haunted (Indonesia Subtittle)" tvg-logo="https://www.dropbox.com/s/hl7rk0fuonyhcbr/dtg%20haunted.png?dl=1" group-title="ALFANET TV BIOSKOP🎬™",DTG Haunted (Indonesia Subtittle)
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5sjKQv6gfKYdPcSwlybN4e4/ts
 #EXTINF:-1 xui-id="39527" tvg-id="ABCAustralia.au" tvg-name="TVN Movies" tvg-logo="http://www.goldentv.tech:80/images/91c094ff4606a76ec1389e6c6e5fb9cc.png" group-title="ENTERTAINMENT™",TVN Movies
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5tar00BgktNp1JbayonaXW8/ts
@@ -208,7 +208,7 @@ http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5jc3p6wyuRW2DJLJTH1L-vw/ts
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5gfu0iNdvr2VYbJyfzRAcPc/ts
 #EXTINF:-1 xui-id="44627" tvg-id="" tvg-name="Jazirah Ilmu Islam" tvg-logo="http://www.goldentv.tech:80/images/96e7e23e289fa225bd56154bff5e92be.jpg" group-title="RELIGIUS™",Jazirah Ilmu Islam
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5t56BHSEHlMzUhpaq5PgyME/ts
-#EXTINF:-1 xui-id="44651" tvg-id="" tvg-name="Golden TV Animasi" tvg-logo="http://www.goldentv.tech:80/images/b04f6b23da86d942a0b546a2b158d9f5.png" group-title="KIDS™",Golden TV Animasi
+#EXTINF:-1 xui-id="44651" tvg-id="" tvg-name="Golden TV Animasi" tvg-logo="http://www.goldentv.tech:80/images/b04f6b23da86d942a0b546a2b158d9f5.png" group-title="KIDS™",Alfanet TV Animasi
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5ktYTo9hGpq37UmlXUBZDZY/ts
 #EXTINF:-1 xui-id="22710" tvg-id="" tvg-name="Rodja TV" tvg-logo="http://www.goldentv.tech:80/images/5dc7b9fdbce9d5142745cc592df0f69f.png" group-title="RELIGIUS™",Rodja TV
 http://www.goldentv.tech:80/play/bsZCjSOgC2OBqevE8RDL5rnk3OKL6TsuG3wE-3su6yA/ts
