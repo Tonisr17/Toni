@@ -1223,9 +1223,16 @@ https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/li
 
 ---------------------------PREMIER--------------------------------
 
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="SPORTS",Premier Sports 1 http://202.21.104.6:88/sps-prime/index.m3u8 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="SPORTS",Premier Sports 2 http://202.21.104.6:88/sps-play/index.m3u8 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="SPORTS",Premier Sports 3 http://202.21.104.6:88/sps-world/index.m3u8 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="SPORTS",Premier Sports 4 http://202.21.104.6:88/sps-action/index.m3u8 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="SPORTS",Premier Sports 5 http://202.21.104.6:88/sps-plus/index.m3u8 #EXTINF:-1 tvg-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/10099-2.png" group-title="SPORTS",TV2 Sport 1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9 https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
-
-
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="Premier SPORTS",Premier Sports 1
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="Premier SPORTS",Premier Sports 2 
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="Premier SPORTS",Premier Sports 3 
+http://202.21.104.6:88/sps-world/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="Premier SPORTS",Premier Sports 4 
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="Premier SPORTS",Premier Sports 5 
+http://202.21.104.6:88/sps-plus/index.m3u8 
 
 
 
