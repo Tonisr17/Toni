@@ -457,13 +457,10 @@ https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
 http://103.150.117.215:25461/nvcm3u/iptvkita/11799
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbDMYW9/Untitled-3-19.png" group-title="MOVIES", Thriil
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wy9T3jF/Untitled-3-02.png" group-title="MOVIES",Celestial Classic
-https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!lifesyle!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 #EXTINF:-1 tvg-id="Asian Food Network" tvg-name="AFN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jKVULos5ZmxuFAE_e3-WClmOv-wcHvafyA&usqp=CAU" group-title="LIFESTYLE", AFN 
