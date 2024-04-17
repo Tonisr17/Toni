@@ -1234,7 +1234,8 @@ http://202.21.104.6:88/sps-action/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="Premier SPORTS",Premier Sports 5 
 http://202.21.104.6:88/sps-plus/index.m3u8 
 
-
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png",Tennis Channel 
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8 
 
 
 -----------------------------MUSIK---------------------------------
