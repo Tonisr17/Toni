@@ -115,7 +115,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-me" tvg-name="" tvg-logo="https://i.ibb.co/rsvT9wt/ABC-me.png" group-title="KIDS™", ABC ME 
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/TmJ3Gmr/animax.jpg" group-title="KIDS", ANIMAX
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/TmJ3Gmr/animax.jpg" group-title="KIDS™"", ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
@@ -211,11 +211,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a59
 https://i.mjh.nz/PlutoTV/63221bafdc6e110007b50270-alt.m3u8
 #EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJ65XkzjWwbA2DSU8F2U2CjEtd0bVtmg-7_3pL73yWdhUdZy2TP2ydQPk&s=10" group-title="KIDS™",Pluto TV Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUAiuqX186_12ncZ2efZ3jcI0K6YFiOg4oA&usqp=CAU" group-title="KIDS",Pluto TV Anime All Ages
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUAiuqX186_12ncZ2efZ3jcI0K6YFiOg4oA&usqp=CAU" group-title="KIDS™"",Pluto TV Anime All Ages
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7xSox4tgKdot_xldhkZAVUoUTVBZfxaIMRU1yOiFexXIk5hAS4TYXHQA&s=10" group-title="KIDS™",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPM011OcwzvaY64YgBB54JqVFhL3YU8X88T75W0-KRkrhkJ5XFs-OsAw&s=10" group-title="KIDS",One Piece
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPM011OcwzvaY64YgBB54JqVFhL3YU8X88T75W0-KRkrhkJ5XFs-OsAw&s=10" group-title="KIDS™"",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDIkYg7Ft9tpQnxUJBBEYPxJjqPIGOnQwndMoXjkRqKjmZKA1SQBjIHxQ&s=10" group-title="KIDS™",TokuSHOUTsu
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
