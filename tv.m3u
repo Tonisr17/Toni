@@ -121,7 +121,7 @@ https://c.mjh.nz/abc-me.m3u8
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://i.ibb.co/Y3k0bTw/aniplus.png" group-title="KIDS™", ANIPLUS 
 http://iptvid.my.id/avc/Toni/Tonisr123/aniplus.m3u8
-#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="" tvg-logo="https://i.ibb.co/C2sBf0c/babushark.jpg" tvg-chno="3170" group-title="KIDS" , Baby Shark TV 
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="" tvg-logo="https://i.ibb.co/C2sBf0c/babushark.jpg" tvg-chno="3170" group-title="KIDS™" , Baby Shark TV 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/q03g3Lr/cartoom.jpg" group-title="KIDS™", CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
