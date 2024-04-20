@@ -455,12 +455,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="https://hometv.pw/logo/kids2/bean.png" group-title="MOVIES",MR. BEAN
 http://103.150.117.215:25461/nvcm3u/iptvkita/11799
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbDMYW9/Untitled-3-19.png" group-title="MOVIES", Thriil
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
- 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!lifesyle!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 #EXTINF:-1 tvg-id="Asian Food Network" tvg-name="AFN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jKVULos5ZmxuFAE_e3-WClmOv-wcHvafyA&usqp=CAU" group-title="LIFESTYLE", AFN 
@@ -1234,7 +1229,7 @@ http://202.21.104.6:88/sps-action/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="Premier SPORTS",Premier Sports 5 
 http://202.21.104.6:88/sps-plus/index.m3u8 
 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png",Tennis Channel 
+#EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png",Tennis Channel 
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8 
 
 
