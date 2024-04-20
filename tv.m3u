@@ -1232,6 +1232,9 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2py0xh_ma-iI6yOunFc3_-VsUv1RJTDnXw&usqp=CAU" group-title="SPORTS" , Tenis Chanel
+https://tonisr.000webhostapp.com/playlist.m3u8
 -----------------------------MUSIK---------------------------------
 
 
