@@ -1228,9 +1228,9 @@ http://202.21.104.6:88/sps-world/index.m3u8
 http://202.21.104.6:88/sps-action/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="Premier SPORTS",Premier Sports 5 
 http://202.21.104.6:88/sps-plus/index.m3u8 
-
-#EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png",Tennis Channel 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2py0xh_ma-iI6yOunFc3_-VsUv1RJTDnXw&usqp=CAU" group-title="SPORTS" , Tenis Chanel
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+
 
 -----------------------------MUSIK---------------------------------
 
